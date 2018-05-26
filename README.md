@@ -16,4 +16,4 @@ Run the following script in terminal
 # Results
 
 Left video is input video, and right video is stabilized video    
-![Demo] https://raw.githubusercontent.com/2vin/video-stabilization/master/data/vidstab_result.gif
+![Alt Text] https://raw.githubusercontent.com/2vin/video-stabilization/master/data/vidstab_result.gif
