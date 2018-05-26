@@ -8,7 +8,7 @@ Run the following script in terminal
 # Usage    
 
 ## For camera    
-./bin/main     
+`./bin/main`     
 
 ## For videos    
-./bin/main video_path
+`./bin/main video_path`
